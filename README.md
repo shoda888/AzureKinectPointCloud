@@ -1,4 +1,4 @@
-# AzureKinectCaptureApp
+# AzureKinectPointCloud
 
 ## Unity
 
